@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Drip Wave（feat. Vingo、Bark）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-02-17T23:54:24.916993Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drip Wave (feat. Vingo & Bark)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Drip_Wave_(feat._Vingo_&_Bark)_BAD_HOP.txt"
+    }
+  ]
+}
